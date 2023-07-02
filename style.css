@@ -1,0 +1,73 @@
+body{
+    background-color: black;
+}
+.nav-link{
+    color: whitesmoke;
+}
+.nav-link:hover{
+    color: white;
+    font-size: 120%;
+}
+.active{font-weight: bold;}
+.footer{    background-color: navy;margin: 0px;}
+.footer-col{
+margin-bottom: 20px;}
+a{
+    text-decoration: none;
+    color: whitesmoke
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+    font-size: 105%;
+}
+.footer-heading{
+    text-align: left;
+}
+.footer-text{
+}
+.footer-link{
+    line-height: 250%;
+}
+.Heading{text-align: center;color: azure;margin-top: 40px;font-family: "Audiowide", sans-serif;
+}
+.p-heading{font-size: 200%;}
+.team-div{text-align: center;font-size: 200%;padding: 0;}
+.team-img{border-radius: 50%;}
+.team-name{font-family: 'Gemunu Libre', sans-serif;color: cornsilk;}
+@media (max-width: 576px)
+{
+.space{display: none    ;}
+.n_c{border: 2px solid white;}
+}
+.p-heading{
+    color: azure;
+}
+.p-heading_text{color: aqua;}
+.p-text{color: aqua;text-align: center;}
+
+
+
+
+
+
+
+.contact-heading{
+    font-size: 150%;
+    color: honeydew;
+}
+.contact-text{
+    font-size: 100%;
+    color: darkgrey;
+}
+
+
+
+
+.footer-heading{
+    font-family: "Audiowide", sans-serif;
+    text-align: center;
+}
+.footer-text{
+    color: aqua;
+}
